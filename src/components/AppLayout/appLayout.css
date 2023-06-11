@@ -1,0 +1,23 @@
+.siderContainer{
+    overflow: auto;
+    height: 100vh;
+    position: fixed;
+    left: 0px !important;
+}
+
+.contentContainer{
+    margin: 0 16px;
+    padding: 1rem;
+}
+
+.menu1{
+    margin-top: 1rem;
+}
+
+.header{
+    background-color: #1677FF;
+}
+
+.active{
+    background-color: #1677FF ;
+}

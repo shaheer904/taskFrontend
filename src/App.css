@@ -1,0 +1,19 @@
+.spinContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.actionContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.con1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
