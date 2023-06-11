@@ -2,13 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Set ENV file
+
+create a .env file in the root folder and past the below line
+
+REACT_APP_DEVELOPMENT_API_URL=http://localhost:5000/v1
+
 ## Available Scripts
 
 In the project directory, you can run:
-
-create .env file and paste the below line
-
-REACT_APP_DEVELOPMENT_API_URL=http://localhost:5000/v1
 
 ### `npm start`
 
